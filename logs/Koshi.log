@@ -1,0 +1,42 @@
+10/09/24 08:25:46 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+10/09/24 08:25:46 - DEBUG - urllib3.connectionpool - [_make_request]: https://raw.githubusercontent.com:443 "GET /rdavydov/Twitch-Channel-Points-Miner-v2/master/TwitchChannelPointsMiner/__init__.py HTTP/11" 200 125
+10/09/24 08:25:46 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: Twitch Channel Points Miner v2-1.9.7 (fork by rdavydov)
+10/09/24 08:25:46 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2
+10/09/24 08:25:46 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '955e1877-df77-4a8e-8ada-9ff4d4b93d64'
+10/09/24 08:25:46 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+10/09/24 08:25:46 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Trying the TV login method..
+10/09/24 08:25:46 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): id.twitch.tv:443
+10/09/24 08:25:47 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/device HTTP/11" 200 164
+10/09/24 08:25:47 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Open https://www.twitch.tv/activate
+10/09/24 08:25:47 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: and enter this code: QQSTXKZW
+10/09/24 08:25:47 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Hurry up! It will expire in 30 minutes!
+10/09/24 08:26:06 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+10/09/24 08:26:06 - DEBUG - urllib3.connectionpool - [_make_request]: https://raw.githubusercontent.com:443 "GET /rdavydov/Twitch-Channel-Points-Miner-v2/master/TwitchChannelPointsMiner/__init__.py HTTP/11" 200 125
+10/09/24 08:26:06 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: Twitch Channel Points Miner v2-1.9.7 (fork by rdavydov)
+10/09/24 08:26:06 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2
+10/09/24 08:26:06 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '2143ca1f-3044-402d-85b9-f51841ad5aa9'
+10/09/24 08:26:06 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+10/09/24 08:26:06 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Trying the TV login method..
+10/09/24 08:26:06 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): id.twitch.tv:443
+10/09/24 08:26:07 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/device HTTP/11" 200 164
+10/09/24 08:26:07 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Open https://www.twitch.tv/activate
+10/09/24 08:26:07 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: and enter this code: RKLRVJPX
+10/09/24 08:26:07 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Hurry up! It will expire in 30 minutes!
+10/09/24 08:26:13 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+10/09/24 08:26:13 - DEBUG - urllib3.connectionpool - [_make_request]: https://raw.githubusercontent.com:443 "GET /rdavydov/Twitch-Channel-Points-Miner-v2/master/TwitchChannelPointsMiner/__init__.py HTTP/11" 200 125
+10/09/24 08:26:13 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: Twitch Channel Points Miner v2-1.9.7 (fork by rdavydov)
+10/09/24 08:26:13 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2
+10/09/24 08:26:13 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'e0a94ea5-fa10-46bc-8812-f58e996e1872'
+10/09/24 08:26:13 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+10/09/24 08:26:13 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Trying the TV login method..
+10/09/24 08:26:13 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): id.twitch.tv:443
+10/09/24 08:26:14 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/device HTTP/11" 200 164
+10/09/24 08:26:14 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Open https://www.twitch.tv/activate
+10/09/24 08:26:14 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: and enter this code: WRYZZDHL
+10/09/24 08:26:14 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Hurry up! It will expire in 30 minutes!
+10/09/24 08:26:19 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/token HTTP/11" 400 49
+10/09/24 08:26:24 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/token HTTP/11" 400 49
+10/09/24 08:26:29 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/token HTTP/11" 400 49
+10/09/24 08:26:34 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/token HTTP/11" 400 49
+10/09/24 08:26:39 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/token HTTP/11" 400 49
+10/09/24 08:26:45 - DEBUG - urllib3.connectionpool - [_make_request]: https://id.twitch.tv:443 "POST /oauth2/token HTTP/11" 400 49
